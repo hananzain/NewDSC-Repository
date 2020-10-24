@@ -1,0 +1,29 @@
+# NewDSC-Repository
+Syarat DSC ITB 2020
+
+# Perkenalkan
+Halo, Saya Hanan Nurul Hardyana Zain
+Saya adalah mahasiswi Universitas Diponegoro angkatan 2020
+Salam Kenal!
+
+# Fire Base
+Fire Base adalah layanan yang memberi berbagai fungsionalitas, seperti analisis, database, pesan, dan pelaporan error sehingga dapat bergerak dengan cepat dan fokus pada pengguna. Didukung oleh Google, dipercaya oleh berbagai aplikasi top
+Firebase dikembangkan di infrastruktur Google dan diskalakan secara otomatis, bahkan untuk aplikasi terbesar.Fire Base dapat digunakan untuk berbagai produk dengan fungsi yang berkaitan. Produk-produk Firebase masing-masing bekerja dengan baik dan berfungsi dengan sangat baik jika saling berbagi data dan insight.
+
+## Mengapa Fire Base?
+Saya ingin mempelajari lebih dalam bagaiman suatu aplikasi bekerja, serta bagaimana cara mempercepat atau memperbaiki kinerjanya, mulai dari pemgembangan aplikasi yang komprehensif, peningkatan kualitas aplikasi, hingga pengembangan own bussiness.
+
+## Kelebihan Produk
+- Meningkatkan kualitas aplikasi dengan efisien
+- Dapat membantu tim apps seluler dan web agar sukses
+- Dapat dikonfigurasi dengan mudah
+- Memiliki fitur lengkap, terpercaya, dan berkelas dunia
+
+## Fitur
+- clous firestore
+- firebase ML
+- cloud function
+- autentikasi
+- hosting
+- cloud storage
+- realtime database
